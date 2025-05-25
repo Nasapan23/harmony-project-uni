@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "type": "invoice_created",
+    "title": "New invoice created",
+    "description": "Invoice INV-0037 created for E-Commerce Solutions",
+    "timestamp": "2024-01-05T10:30:00Z",
+    "icon": "FileText",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "type": "payment_received",
+    "title": "Payment received",
+    "description": "$3,200 payment received from Business Consulting Group",
+    "timestamp": "2024-01-04T14:15:00Z",
+    "icon": "DollarSign",
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "type": "client_added",
+    "title": "New client onboarded",
+    "description": "Cloud Infrastructure joined as a new client",
+    "timestamp": "2024-01-03T09:45:00Z",
+    "icon": "UserPlus",
+    "color": "purple"
+  },
+  {
+    "id": 4,
+    "type": "alert",
+    "title": "Invoice overdue",
+    "description": "Invoice INV-0034 from Digital Solutions Inc is overdue",
+    "timestamp": "2024-01-02T16:20:00Z",
+    "icon": "AlertTriangle",
+    "color": "red"
+  },
+  {
+    "id": 5,
+    "type": "report_generated",
+    "title": "Monthly report generated",
+    "description": "December 2023 financial report has been generated",
+    "timestamp": "2024-01-01T08:00:00Z",
+    "icon": "BarChart3",
+    "color": "blue"
+  },
+  {
+    "id": 6,
+    "type": "compliance_check",
+    "title": "Compliance check completed",
+    "description": "Tax compliance review completed for Tech Innovations Ltd",
+    "timestamp": "2023-12-30T11:30:00Z",
+    "icon": "Shield",
+    "color": "green"
+  },
+  {
+    "id": 7,
+    "type": "invoice_sent",
+    "title": "Invoice sent",
+    "description": "Invoice INV-0036 sent to Business Consulting Group",
+    "timestamp": "2023-12-20T13:45:00Z",
+    "icon": "Send",
+    "color": "blue"
+  },
+  {
+    "id": 8,
+    "type": "system_update",
+    "title": "System update",
+    "description": "AI error detection system has been updated",
+    "timestamp": "2023-12-19T07:15:00Z",
+    "icon": "Settings",
+    "color": "gray"
+  }
+] 

@@ -1,0 +1,26 @@
+{
+  "revenueChart": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "data": [8500, 9200, 10100, 9800, 11200, 12500, 11800, 13200, 12900, 14100, 13500, 15200]
+  },
+  "expenseBreakdown": {
+    "labels": ["Software & Tools", "Office Rent", "Salaries", "Marketing", "Utilities", "Other"],
+    "data": [2500, 1800, 8500, 1200, 600, 800]
+  },
+  "monthlyComparison": {
+    "labels": ["Oct", "Nov", "Dec"],
+    "revenue": [14100, 13500, 15200],
+    "expenses": [11200, 10800, 12100],
+    "profit": [2900, 2700, 3100]
+  },
+  "clientGrowth": {
+    "labels": ["Q1", "Q2", "Q3", "Q4"],
+    "data": [35, 42, 45, 48]
+  },
+  "performanceMetrics": {
+    "averageInvoiceValue": "$1,847",
+    "collectionRate": "94.2%",
+    "clientRetention": "96.8%",
+    "profitMargin": "23.5%"
+  }
+} 
